@@ -87,7 +87,35 @@ export default {
 - [`receipts/bc373815-878e-5a0d-a1e4-aa702fa9aba8.json`](receipts/bc373815-878e-5a0d-a1e4-aa702fa9aba8.json)
 - [`routes/eternal-echo.js`](routes/eternal-echo.js)
 
+MH8-Echo-Engine/
+├── README.md
+├── archetypes/
+│   └── ACB_GOLDEN_WITNESS.json
+├── receipts/
+│   └── bc373815-878e-5a0d-a1e4-aa702fa9aba8.json
+├── routes/
+│   ├── eternal-echo.js
+│   ├── mh8-title.js
+│   ├── mh8-agent-index.js
+│   ├── mh8-signal-control.js
+│   ├── mh8-agent-ceremony.js
+│   └── mh8-exterior-index.js
+├── registry.json
+└── .well-known/
+    └── jwks.json
 
+## 📁 Canonical Files (Coming Soon)
+
+- [`archetypes/ACB_GOLDEN_WITNESS.json`](archetypes/ACB_GOLDEN_WITNESS.json)
+- [`receipts/bc373815-878e-5a0d-a1e4-aa702fa9aba8.json`](receipts/bc373815-878e-5a0d-a1e4-aa702fa9aba8.json)
+- [`routes/eternal-echo.js`](routes/eternal-echo.js)
+- [`routes/mh8-title.js`](routes/mh8-title.js)
+- [`routes/mh8-agent-index.js`](routes/mh8-agent-index.js)
+- [`routes/mh8-signal-control.js`](routes/mh8-signal-control.js)
+- [`routes/mh8-agent-ceremony.js`](routes/mh8-agent-ceremony.js)
+- [`routes/mh8-exterior-index.js`](routes/mh8-exterior-index.js)
+- [`registry.json`](registry.json)
+- [`well-known/jwks.json`](.well-known/jwks.json)
 
 
 
